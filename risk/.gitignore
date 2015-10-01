@@ -1,0 +1,4 @@
+sample.jupyter.notes/
+.ipynb_checkpoints/
+.local.only
+*.pyc
